@@ -13,3 +13,8 @@ as moniter internet trafic
 - It needs to support HTTP and HTTPS (this is so we can view the trafic and load the page)
 - Needs to have a Login for the socks5 proxy (this is for securty)
 - Needs to support Firefox, Chrome and Safari. (need to work with android and apple)
+
+# Links To Help
+
+https://www.codeproject.com/Articles/225747/NET-Network-Monitor
+https://www.codeproject.com/Articles/5144/An-Easy-Firewall-Application
