@@ -13,6 +13,7 @@ as moniter internet trafic
 - It needs to support HTTP and HTTPS (this is so we can view the trafic and load the page)
 - Needs to have a Login for the socks5 proxy (this is for securty)
 - Needs to support Firefox, Chrome and Safari. (need to work with android and apple)
+- Needs to be able to redirect if you go on a blocked site (this is so that the user knows is blocked)
 
 # Links To Help
 
